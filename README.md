@@ -139,6 +139,36 @@ My engineering journey started in 2023 with systems-level fundamentals — memor
 
 ---
 
+## Motorsport Product Concepts
+
+### GapTracker — Real-Time Race Gap Visualizer
+> A second-screen race companion that connects to live timing data and renders
+> animated gap charts so fans can see when intervals open or close across a stint.
+> Designed to highlight key race context such as VSC periods, pit stops, DRS trains,
+> and strategic thresholds like undercut windows.
+
+`Live Timing` `Data Visualization` `Motorsport` `Race Strategy`
+
+---
+
+### Circuit Scout — Circuit Explorer & Track Guide
+> An interactive circuit guide for fans, sim racers, and track-day drivers.
+> Combines sector breakdowns, DRS zones, braking points, overtaking hotspots,
+> corner-by-corner facts, and practical setup or safety notes into one place.
+
+`Interactive Maps` `Track Guides` `Sim Racing` `Motorsport`
+
+---
+
+### Telemetry Compare — Driver Head-to-Head Analyzer
+> A telemetry analysis concept focused on side-by-side driver comparison.
+> Visualizes speed traces, throttle and brake application, corner deltas, and
+> sector gains or losses to show exactly where one driver found lap time over another.
+
+`Telemetry` `Performance Analysis` `Data Visualization` `Motorsport`
+
+---
+
 ## GitHub Stats
 
 <div align="center">
