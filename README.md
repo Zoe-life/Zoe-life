@@ -147,7 +147,7 @@ My engineering journey started in 2023 with systems-level fundamentals — memor
 > Designed to highlight key race context such as VSC periods, pit stops, DRS trains,
 > and strategic thresholds like undercut windows.
 
-`Live Timing` `Data Visualisation` `Motorsport` `Race Strategy`
+`Live Timing` `Data Visualization` `Motorsport` `Race Strategy`
 
 ---
 
@@ -162,10 +162,10 @@ My engineering journey started in 2023 with systems-level fundamentals — memor
 
 ### Telemetry Compare — Driver Head-to-Head Analyzer
 > A telemetry analysis concept focused on side-by-side driver comparison.
-> Visualises speed traces, throttle and brake application, corner deltas, and
+> Visualizes speed traces, throttle and brake application, corner deltas, and
 > sector gains or losses to show exactly where one driver found lap time over another.
 
-`Telemetry` `Performance Analysis` `Data Visualisation` `Motorsport`
+`Telemetry` `Performance Analysis` `Data Visualization` `Motorsport`
 
 ---
 
