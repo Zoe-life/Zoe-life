@@ -10,7 +10,7 @@
 ```
 
 ### Merlyn Zawadi · Backend Engineer · Security Researcher
-*Building secure, scalable systems across healthcare, security, travel & e-commerce.*
+*Building secure, scalable systems across diverse domains*
 
 ---
 
