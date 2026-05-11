@@ -84,7 +84,7 @@ My engineering journey started in 2023 with systems-level fundamentals — memor
 
 ---
 
-### [Mamawell](https://github.com/Zoe-life/Mamawell)
+### [AfyaMama](https://github.com/Zoe-life/Afyamama)
 > Secure and comprehensive web application designed to help expectant mothers track
 > their pregnancy journey, connect with other moms, receive personalised guidance
 > on nutrition and exercise, and consult with healthcare professionals. Data security
@@ -119,7 +119,7 @@ My engineering journey started in 2023 with systems-level fundamentals — memor
 
 ---
 
-### [study-material-automator](https://github.com/Zoe-life/study-material-automator)
+### [study Rafiki](https://github.com/Zoe-life/study-Rafiki)
 > A fully automated system that processes PDF class notes into structured study
 > materials with diagrams and interactive illustrations. Parses raw lecture PDFs,
 > extracts key concepts, generates summarised outlines, and produces visual
